@@ -1,0 +1,65 @@
+@media (max-width: 1200px) {
+    .white-black-35 {
+        font-size: 32px;
+        line-height: 3rem;
+    }
+
+    .black-bold-32 {
+        font-size: 32px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .slider {
+        padding-top: 28px;
+    }
+
+}
+
+@media (max-width: 992px) {
+    .slider {
+        padding-top: 7px;
+    }
+
+    .white-black-35 {
+        font-size: 26px;
+    }
+
+    .font-32 {
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 768px) {
+    .slider {
+        padding-top: 0px;
+    }
+
+    .slider-padding {
+        padding-top: 27px;
+    }
+
+    .font-32 {
+        font-size: 15px;
+    }
+
+    .white-black-35 {
+        font-size: 22px;
+    }
+
+    .black-regular-15 {
+        font-size: 12px;
+    }
+
+    .white-bold-34 {
+        font-size: 1.4rem
+    }
+
+    .rpolicy-content {
+        padding-top: 10px;
+        justify-items: center;
+    }
+
+}
+
+@media (max-width: 480px) {}
